@@ -60,7 +60,7 @@ This repository contains MATLAB code for simulating and controlling a quadrotor 
 
     ```bash
     git clone https://github.com/YggdrasillTech/Drone-Simulation.git
-    cd drone-simulation
+    cd Drone-Simulation
     ```
 
 2. **Setup:**
