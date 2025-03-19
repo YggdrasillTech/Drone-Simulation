@@ -34,7 +34,7 @@ This repository contains MATLAB code for simulating and controlling a quadrotor 
 - STL files in the `media/` folder:
   - `DroneBody.stl`
   - `DronePropeller.stl`
-- (Optional) A joystick connected and recognized by MATLAB using the `sim3d.io.Joystick` class.
+- A joystick connected and recognized by MATLAB using the `sim3d.io.Joystick` class.
 
 ## Project Structure
 
